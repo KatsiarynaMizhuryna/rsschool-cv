@@ -11,3 +11,6 @@ hr{
     border: 2px;
     border-color: blue;
 }
+ul{
+    list-style-type: upper-roman;
+}
